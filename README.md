@@ -1,5 +1,4 @@
-# Web-Scrapping_Iphone_price-amazon
-# Web Scraping for Amazon Products
+## Web Scraping for Amazon Products
 
 ## Overview
 This Python script is designed to scrape product information from Amazon. It extracts data such as product names and prices, and organizes the information into a CSV file.
